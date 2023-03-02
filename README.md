@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zee</h1>
-<h3 align="center">A passionate Cloud and DevOps Engineer from India</h3>
+<h3 align="left">A passionate Cloud and DevOps Engineer from India</h3>
 
 - 🔭 I’m currently working on **DevOps tools**
 
