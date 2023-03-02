@@ -14,8 +14,7 @@
 - 📫 How to reach me **zeeshanm39@gmail.com**
 
 - 📄About me 
-- 
-- <p align="center">I am an expert DevOps and AWS Engineer with a passion for streamlining the delivery pipeline and automating procedures. I've been working in this industry for more than five years, and I'm knowledgeable in AWS services, automation tools, containerization and orchestration, and security. My objective is to assist businesses in providing clients with safe, scalable applications and services while speeding up time to market and boosting productivity. </p>
+- <p align="left">I am an expert DevOps and AWS Engineer with a passion for streamlining the delivery pipeline and automating procedures. I've been working in this industry for more than five years, and I'm knowledgeable in AWS services, automation tools, containerization and orchestration, and security. My objective is to assist businesses in providing clients with safe, scalable applications and services while speeding up time to market and boosting productivity. </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
