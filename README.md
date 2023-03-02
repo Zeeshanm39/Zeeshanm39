@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zee</h1>
 <h3 align="center">A passionate Cloud and DevOps Engineer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeshanm39" alt="zeeshanm39" /></a> </p>
-
 - 🔭 I’m currently working on **DevOps tools**
 
 - 🌱 I’m currently learning **Kafka**
