@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zee</h1>
 <h3 align="center">DevOps Engineer | Cloud Engineer | AWS | GCP | Docker | Kubernetes | Linux | Git | Splunk | Grafana | Prometheus</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeshanm39" alt="zeeshanm39" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeshanm39" alt="zeeshanm39" /></a> </p> -->
 
 - 🔭 I’m currently working on **Capstone Project**
 
@@ -14,7 +14,7 @@
 - 📫 How to reach me **zeeshanm39@gmail.com**
 
 - 📄About me 
-- <p align="left">I am an expert DevOps and AWS Engineer with a passion for streamlining the delivery pipeline and automating procedures. I've been working in this industry for more than five years, and I'm knowledgeable in AWS services, automation tools, containerization and orchestration, and security. My objective is to assist businesses in providing clients with safe, scalable applications and services while speeding up time to market and boosting productivity. </p>
+- <p align="left-justify">I am an expert DevOps and AWS Engineer with a passion for streamlining the delivery pipeline and automating procedures. I've been working in this industry for more than five years, and I'm knowledgeable in AWS services, automation tools, containerization and orchestration, and security. My objective is to assist businesses in providing clients with safe, scalable applications and services while speeding up time to market and boosting productivity. </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
