@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zee</h1>
-<h3 align="center">DevOps Engineer | Cloud Engineer | AWS | GCP | Docker | Kubernetes | Linux | Git | Splunk | Grafana | Prometheus |Technical Blogger | Passionate about writing Technical Blogs on various DevOps concepts</h3>
+<h3 align="justify">DevOps Engineer | Cloud Engineer | AWS | GCP | Docker | Kubernetes | Linux | Git | Splunk | Grafana | Prometheus |Technical Blogger | Passionate about writing Technical Blogs on various DevOps concepts</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeshanm39" alt="zeeshanm39" /></a> </p> -->
 
