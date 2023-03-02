@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Zee</h1>
-<h3 align="left">A passionate Cloud and DevOps Engineer from India</h3>
+<h3 align="center">DevOps Engineer | Cloud Engineer | AWS | GCP | Docker | Kubernetes | Linux | Git | Splunk | Grafana | Prometheus</h3>
 
-- 🔭 I’m currently working on **DevOps tools**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeshanm39" alt="zeeshanm39" /></a> </p>
 
-- 🌱 I’m currently learning **Kafka**
+- 🔭 I’m currently working on **Capstone Project**
+
+- 🌱 I’m currently learning **Kafka, Microsoft Azure**
 
 - 👨‍💻 All of my projects are available at [https://my-protfolio-six.vercel.app/](https://my-protfolio-six.vercel.app/)
 
-- 💬 Ask me about **DevOps, AWS**
+- 💬 Ask me about **AWS, Jenkins, Maven, Docker, Kubernetes, Splunk, Git, GitHub, Prometheus, Grafana, Terraform**
 
 - 📫 How to reach me **zeeshanm39@gmail.com**
+
+- 📄About me [I am an expert DevOps and AWS Engineer with a passion for streamlining the delivery pipeline and automating procedures. I've been working in this industry for more than five years, and I'm knowledgeable in AWS services, automation tools, containerization and orchestration, and security. My objective is to assist businesses in providing clients with safe, scalable applications and services while speeding up time to market and boosting productivity.](I am an expert DevOps and AWS Engineer with a passion for streamlining the delivery pipeline and automating procedures. I've been working in this industry for more than five years, and I'm knowledgeable in AWS services, automation tools, containerization and orchestration, and security. My objective is to assist businesses in providing clients with safe, scalable applications and services while speeding up time to market and boosting productivity.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
