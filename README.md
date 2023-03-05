@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zee</h1>
 <h3 align="center">DevOps Engineer | AWS Solution Architect | AWS Cloud Practioner | AWS DevOps Engineer | Linux | Cloud Engineer | AWS | GCP | Docker | Kubernetes | Linux | Git | Splunk | Grafana | Prometheus | Terraform | Technical Blogger | Passionate about writing Technical Blogs on various DevOps concepts</h3>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeshanm39" alt="zeeshanm39" /></a> </p> -->
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeshanm39" alt="zeeshanm39" /></a> </p> -->
 
 - 🔭 I’m currently working on **Capstone Project**
 
