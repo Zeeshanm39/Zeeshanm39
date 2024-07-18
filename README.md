@@ -3,7 +3,7 @@
 
 <!--  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeshanm39" alt="zeeshanm39" /></a> </p>  -->
 
-- 🔭 I’m currently working on **Capstone Project**
+- 🔭 I’m currently working as DevOps Engineer
 
 <!--- 🌱 I’m currently learning **Kafka, Microsoft Azure** -->
 
